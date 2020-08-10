@@ -8,7 +8,7 @@
 
 - 🏔 living in Superior, CO 
 
-- 🧠 Developing a website as a collaborative project with a Ruby Backend Engineer at Turning ([McKistry Bro WebDev](https://github.com/TravisGM92/MckinstryBrosWebDev))
+- 🧠 Developing a website as a collaborative project with a Ruby Backend Engineer at Turning ([McKistry Bro WebDev](https://travisgm92.github.io/MckinstryBrosWebDev/))
 - 🧠 Developing a package that will allow a user to apply all known RL models to OpenAi ([OpenAI_RL](https://github.com/MckinstryJ/OpenAI_RL))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MckinstryJ)](https://github.com/MckinstryJ/github-readme-stats)
