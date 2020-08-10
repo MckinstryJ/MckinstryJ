@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MckinstryJ)](https://github.com/travisgm92/github-readme-stats)
 
-[![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MckinstryJ&show_icons=true&theme=dark)]
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MckinstryJ&show_icons=true&theme=dark)
 
 <!--
 **MckinstryJ/MckinstryJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,13 +28,13 @@
 ### Connect with me:
 
 [<img align="left" alt="mckinstrybros website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="linkedin" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="hackerrank" | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="John's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="John's | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 
 <br />
 
 <br />
 
-[website]: https://github.com/TravisGM92/MckinstryBrosWebDev
+[website]: https://travisgm92.github.io/MckinstryBrosWebDev/
 [linkedin]: https://www.linkedin.com/in/john-m-39645213b/
 [hackerrank]: https://www.hackerrank.com/xzten3
