@@ -5,7 +5,11 @@
 ### Currently, I am...
 #### Education
 - 📖 Studying at **Georgia Tech** for my **Masters in Machine Learning**
-- 🌱 Completed Courses: Reinforcement Learning, Knowledge Based Artifical Intelligence, Computer Vision and Machine Learning for Trading
+- 🌱 **Completed Courses**: 
+  - Reinforcement Learning
+  - Knowledge Based Artifical Intelligence
+  - Computer Vision
+  - Machine Learning for Trading
 #### Location
 - 🏔 Living in Superior, CO 
 #### Development
