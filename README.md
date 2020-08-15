@@ -6,9 +6,9 @@
 
 - 📖 Studying at **Georgia Tech** for my **Masters in Machine Learning**
 - 🌱 Completed Courses: Reinforcement Learning, Knowledge Based Artifical Intelligence, Computer Vision and Machine Learning for Trading
-
+</ br>
 - 🏔 Living in Superior, CO 
-
+</ br>
 - 🧠 Developing a website as a collaborative project with a Ruby Backend Engineer at Turning ([McKinstry Bro WebDev](https://travisgm92.github.io/MckinstryBrosWebDev/))
 - 🧠 Developing a package that will allow a user to apply all known RL models to OpenAi ([OpenAI_RL](https://github.com/MckinstryJ/OpenAI_RL))
 - 🧠 Developing (Python, C++, MatLab, R) code to ETL stock data from Alpha Advantage and Algo Trading strategies to maximize Sharpe's Ratio 
