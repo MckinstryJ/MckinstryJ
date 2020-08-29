@@ -13,7 +13,6 @@
 #### Location
 - 🏔 Living in Superior, CO 
 #### Development
-- 🧠 Developing a website as a collaborative project with a Ruby Backend Engineer at Turning ([McKinstry Bro WebDev](https://travisgm92.github.io/MckinstryBrosWebDev/))
 - 🧠 Developing a package that will allow a user to apply all known RL models to OpenAi ([OpenAI_RL](https://github.com/MckinstryJ/OpenAI_RL))
 - 🧠 Developing (Python, C++, MatLab, R) code to ETL stock data from Alpha Advantage and Algo Trading strategies to maximize Sharpe's Ratio ([QuantDev](https://github.com/MckinstryJ/QuantDev))
 - 🧠 Developing a Self Driving RC as a collaborative project with a Developer at Comcast (link coming soon)
