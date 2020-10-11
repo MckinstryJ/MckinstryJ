@@ -15,7 +15,7 @@
 #### Development
 - 🧠 Developing a package that will allow a user to apply all known RL models to OpenAi ([OpenAI_RL](https://github.com/MckinstryJ/OpenAI_RL))
 - 🧠 Developing (Python, C++, MatLab, R) code to ETL stock data from Alpha Advantage and Algo Trading strategies to maximize Sharpe's Ratio ([QuantDev](https://github.com/MckinstryJ/QuantDev))
-- 🧠 Developing a Self Driving RC as a collaborative project with a Developer at Comcast (link coming soon)
+- 🧠 Developing a deeper understanding to C++ with various C++ algorithms (including HPC, templating, pointers, etc) ([CppVarites](https://github.com/MckinstryJ/CppVarites))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MckinstryJ)](https://github.com/MckinstryJ/github-readme-stats)
 
