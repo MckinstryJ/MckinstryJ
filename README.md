@@ -5,16 +5,18 @@
 ### Currently, I am...
 #### Education
 - 📖 Studying at **Georgia Tech** for my **Masters in Machine Learning**
-- 🌱 **Completed Courses**: 
+- 🌱 **Completed / Current Courses**: 
   - Reinforcement Learning
   - Knowledge Based Artifical Intelligence
   - Machine Learning for Trading
+  - Computer Vision
+  - Database Optimization and Concepts
+  - HPC Architecture
 #### Location
 - 🏔 Living in Superior, CO 
 #### Development
 - 🧠 Developing a package that will allow a user to apply all known RL models to OpenAi ([OpenAI_RL](https://github.com/MckinstryJ/OpenAI_RL))
-- 🧠 Developing (Python, C++, MatLab, R) code to ETL stock data from Quandl and Algo Trading strategies to maximize Sharpe's Ratio ([QuantDev](https://github.com/MckinstryJ/QuantDev))
-- 🧠 Gaining a deeper understanding of C++ with various algorithms (including HPC, templating, pointers, etc) ([CppVarites](https://github.com/MckinstryJ/CppVarites))
+- 🧠 Developing a private Algorithmic Trader which takes data from Quandl and applies various Algo Trading strategies to maximize Sharpe's Ratio ([QuantDev](https://github.com/MckinstryJ/QuantDev))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MckinstryJ)](https://github.com/MckinstryJ/github-readme-stats)
 
@@ -38,5 +40,5 @@
 
 <br />
 
-[website]: https://travisgm92.github.io/MckinstryBrosWebDev/
+[website]: https://gifted-ritchie-1ae5b3.netlify.app/
 [linkedin]: https://www.linkedin.com/in/john-m-39645213b/
