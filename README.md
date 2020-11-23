@@ -10,7 +10,6 @@
   - Knowledge Based Artifical Intelligence
   - Machine Learning for Trading
   - Computer Vision
-  - Database Optimization and Concepts
   - HPC Architecture
 #### Location
 - 🏔 Living in Superior, CO 
