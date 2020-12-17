@@ -9,7 +9,6 @@
   - Reinforcement Learning
   - Knowledge Based Artifical Intelligence
   - Machine Learning for Trading
-  - Computer Vision
   - HPC Architecture
 #### Location
 - 🏔 Living in Superior, CO 
