@@ -21,6 +21,8 @@
 
 ![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MckinstryJ&show_icons=true&theme=dark)
 
+![CodeWards Badges](https://www.codewars.com/users/xzten3/badges/large)
+
 <!--
 **MckinstryJ/MckinstryJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
