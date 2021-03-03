@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## You've stumbled upon John McKinstry's GitHub profile!
+## John McKinstry's GitHub
 
 ### Currently, I am...
 #### Education
