@@ -12,8 +12,6 @@
 - 🏔 Living in Superior, CO 
 #### Development
 - 🧠 Developing a Feature Sythnesis package that is customizable based on user's specifications on features / target(s) / etc
-- 🧠 Developing an private Algo Trader for personal use (but evenutal public use)
-- 🧠 Gaining exposure to various algorithms for nextgen Ai avatars. TTS models include: FastSpeech2, Tacotron2, and more. NLP models include: GPT-1, GPT-2 and GPT-3. All of which will help assist me in my current Machine Learning Engineering experience at [Traits.ai](https://traits.ai).
 
 ![](https://github.com/MckinstryJ/github-stats/blob/master/generated/languages.svg)
 
