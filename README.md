@@ -12,6 +12,7 @@
 - 🏔 Living in Superior, CO 
 #### Development
 - 🧠 Developing a Feature Sythnesis package that is customizable based on user's specifications on features / target(s) / etc
+- 🧠 Developing a business idea =)
 
 ![](https://github.com/MckinstryJ/github-stats/blob/master/generated/languages.svg)
 
