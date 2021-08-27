@@ -8,6 +8,7 @@
   - Knowledge Based Artifical Intelligence
   - Machine Learning for Trading
   - Artifical Intelligence
+  - Machine Learning
 #### Location
 - 🏔 Living in Superior, CO 
 #### Development
