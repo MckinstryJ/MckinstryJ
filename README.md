@@ -10,10 +10,10 @@
   - Artifical Intelligence
   - Machine Learning
 #### Location
-- 🏔 Living in Superior, CO 
+- 🏔 Living in Denver, CO 
 #### Development
-- 🧠 Developing a Feature Sythnesis package that is customizable based on user's specifications on features / target(s) / etc
-- 🧠 Developing a business idea =)
+- 🧠 Developing a Scout Drone
+- 🧠 Developing a passive trading system
 
 ![](https://github.com/MckinstryJ/github-stats/blob/master/generated/languages.svg)
 
