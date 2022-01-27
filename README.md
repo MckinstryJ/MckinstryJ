@@ -9,11 +9,14 @@
   - Machine Learning for Trading
   - Artifical Intelligence
   - Machine Learning
+  - Deep Learning
+  - Network Science
 #### Location
 - 🏔 Living in Denver, CO 
 #### Development
-- 🧠 Developing a Scout Drone
-- 🧠 Developing a passive trading system
+- 🧠 A Scout Drone
+- 🧠 A passive trading system
+- 🧠 An Ai Personal Trainer and Tracker via (Flutter + Java + Ai)
 
 ![](https://github.com/MckinstryJ/github-stats/blob/master/generated/languages.svg)
 
