@@ -14,15 +14,14 @@
 #### Location
 - 🏔 Living in Denver, CO 
 #### Development
-- 🧠 A Scout Drone
-- 🧠 A passive trading system
-- 🧠 An Ai Personal Trainer and Tracker via (Flutter + Java + Ai)
+- 🧠 Age Estimator (as part of a group project at GTech)
+- 🧠 Personal website (for various visual applications)
 
 ![](https://github.com/MckinstryJ/github-stats/blob/master/generated/languages.svg)
 
 ![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MckinstryJ&show_icons=true&theme=dark)
 
-![CodeWards Badges](https://www.codewars.com/users/xzten3/badges/large)
+![CodeWards Badges](https://www.codewars.com/users/JohnMcKinstry/badges/large)
 
 <!--
 **MckinstryJ/MckinstryJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,6 +32,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
 ### Connect with me:
 
 [<img align="left" alt="mckinstrybros website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -43,4 +44,4 @@
 <br />
 
 [website]: https://gifted-ritchie-1ae5b3.netlify.app/
-[linkedin]: https://www.linkedin.com/in/john-m-39645213b/
+[linkedin]: https://www.linkedin.com/in/john-m-39645213b/ -->
