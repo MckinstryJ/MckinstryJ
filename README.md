@@ -2,7 +2,7 @@
 
 ### Currently, I am...
 #### Education
-- 📖 Studying at **Georgia Tech** for my **Masters in Machine Learning**
+- 📖 Studying at **Georgia Tech** for my **Masters in Machine Learning** and I'll be graduating in **December 2022**
 - 🌱 **Completed / Current Courses**: 
   - Reinforcement Learning
   - Knowledge Based Artifical Intelligence
@@ -11,11 +11,14 @@
   - Machine Learning
   - Deep Learning
   - Network Science
+  - Ai Ethics Society
+  - Graduate Algorithms
+  - Game Ai
 #### Location
 - 🏔 Living in Denver, CO 
 #### Development
 - 🧠 Age Estimator (as part of a group project at GTech)
-- 🧠 Personal website (for various visual applications)
+- 🧠 Personal website (for various visual applications and AWS related skill development)
 
 ![](https://github.com/MckinstryJ/github-stats/blob/master/generated/languages.svg)
 
