@@ -17,8 +17,7 @@
 #### Location
 - 🏔 Living in Denver, CO 
 #### Development
-- 🧠 Age Estimator (as part of a group project at GTech)
-- 🧠 Personal website (for various visual applications and AWS related skill development)
+- 🧠 Workout Tracker (utilizing: python, flask, javascript, css, html)
 
 ![](https://github.com/MckinstryJ/github-stats/blob/master/generated/languages.svg)
 
@@ -35,16 +34,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!--
-### Connect with me:
-
-[<img align="left" alt="mckinstrybros website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="John's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-<br />
-
-[website]: https://gifted-ritchie-1ae5b3.netlify.app/
-[linkedin]: https://www.linkedin.com/in/john-m-39645213b/ -->
