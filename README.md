@@ -17,4 +17,5 @@
 #### Location
 - 🏔 Living in Denver, CO 
 #### Development
-- 🧠 Workout Tracker (utilizing: python, flask, javascript, css, html
+- 🧠 Workout Tracker (utilizing: python, flask, javascript, css, html)
+  - LINK COMING SOON!
