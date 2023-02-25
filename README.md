@@ -2,7 +2,7 @@
 
 ### Currently, I am...
 #### Education
-- 📖 Studying at **Georgia Tech** for my **Masters in Machine Learning** and I'll be graduating in **December 2022**
+- 📖 Studying at **Georgia Tech** for my **Masters in Machine Learning**
 - 🌱 **Completed / Current Courses**: 
   - Reinforcement Learning
   - Knowledge Based Artifical Intelligence
@@ -17,5 +17,5 @@
 #### Location
 - 🏔 Living in Denver, CO 
 #### Development
-- 🧠 Workout Tracker (utilizing: python, flask, javascript, css, html)
+- 🧠 Stock Market Analysis (utilizing: python, flask, jquery, css, html)
   - LINK COMING SOON!
