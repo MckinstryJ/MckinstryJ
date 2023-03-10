@@ -17,5 +17,5 @@
 #### Location
 - 🏔 Living in Denver, CO 
 #### Development
-- 🧠 Stock Market Analysis (utilizing: python, flask, jquery, css, html)
+- 🧠 Weight Lifting Tracker (utilizing: python, flask, jquery, css, html)
   - LINK COMING SOON!
