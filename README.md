@@ -1,4 +1,4 @@
-## John McKinstry's GitHub
+## McKinstryJ's GitHub
 
 ### Currently, I am...
 #### Education
@@ -16,6 +16,3 @@
   - Game Ai
 #### Location
 - 🏔 Living in Denver, CO 
-#### Development
-- 🧠 Weight Lifting Tracker (utilizing: python, flask, jquery, css, html)
-  - LINK COMING SOON!
